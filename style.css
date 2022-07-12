@@ -4,12 +4,6 @@ body, html{
     font-family: 'Open Sans', sans-serif;
     color: #fff;
 }
-
-body{
-    background: url(./images/bg01.jpg) no-repeat center center fixed;
-    background-size: cover;
-}
-
 video {
 z-index: 0;
 position: absolute;
@@ -22,7 +16,7 @@ object-fit: cover;
 
 main {
     position: relative;
-    
+
 }
 
 header{
